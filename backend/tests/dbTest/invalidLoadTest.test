@@ -1,0 +1,5 @@
+INPUT
+load
+OUTPUT
+ERROR: Please enter a valid command (The input length is too short)
+END

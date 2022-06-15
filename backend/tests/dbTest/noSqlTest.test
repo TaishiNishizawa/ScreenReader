@@ -1,0 +1,6 @@
+INPUT
+load hello
+OUTPUT
+connected to database
+Backend read following 0 files.
+END

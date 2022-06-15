@@ -1,0 +1,8 @@
+INPUT
+load ../data/kanban.sqlite3
+OUTPUT
+connected to database
+Backend read following 2 files.
+ ・ kanban
+ ・ sqlite_sequence
+END

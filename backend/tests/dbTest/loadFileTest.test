@@ -1,0 +1,10 @@
+INPUT
+load ../data/horoscopes.sqlite3
+OUTPUT
+connected to database
+Backend read following 4 files.
+ ・ sqlite_sequence
+ ・ horoscopes
+ ・ tas
+ ・ ta_horoscope
+END

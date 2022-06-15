@@ -1,0 +1,10 @@
+INPUT
+load ../data/movies.sqlite3
+OUTPUT
+connected to database
+Backend read following 4 files.
+ ・ film
+ ・ actor
+ ・ actor_film
+ ・ name_lookup
+END

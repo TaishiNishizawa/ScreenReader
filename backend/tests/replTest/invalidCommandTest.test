@@ -1,0 +1,5 @@
+INPUT
+hello world
+OUTPUT
+ERROR: Given command hasn't been registered yet. Try something else.
+END
